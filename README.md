@@ -13,20 +13,30 @@
 
 ![manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
+## $\mathcal{who\ am\ I?}$
+
+- 🐦 https://twitter.com/ngng628
+- :octocat: https://github.com/ngng628
+- 🪵 https://scrapbox.io/ngmemo/
+- 🏇 https://atcoder.jp/users/ngng628
+- 📊 https://codeforces.com/profile/ngng628
+
 ## $\mathcal{GitHub\ Stats}$
 
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngng628&count_private=true&theme=dracula)
-
-</div>
-
-## $\mathcal{Languages}$
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngng628&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=ngng628&count_private=true&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngng628&layout=compact&langs_count=10&theme=dracula&bg_color=00000000&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ## $\mathcal{Fizz Buzz}$

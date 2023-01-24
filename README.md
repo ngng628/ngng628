@@ -42,9 +42,9 @@
 ## $\mathcal{Fizz Buzz}$
 
 ```cr
-n = (1..15).select { |i| i % 3 == 0 }.map { |i| { i, "Fizz" } }
-g = (1..15).select { |i| i % 5 == 0 }.map { |i| { i, "Buzz" } }
+n = (1..100).select { |i| i % 3 == 0 }.map { |i| { i, "Fizz" } }
+g = (1..100).select { |i| i % 5 == 0 }.map { |i| { i, "Buzz" } }
 n = n.concat(g).group_by(&.[0]).map { |i, s| {i, s.sum("", &.[1])} }
-g = n.concat([*(1..15)].map{ |i| {i, i.to_s} }).uniq(&.[0]).sort.map(&.[1]); puts [
-6_2,8].map(&.chr).join + g.join(" ") # => 1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz
+g = n.concat([*(1..100)].map{ |i| {i, i.to_s} }).uniq(&.[0]).sort.map(&.[1]); puts [
+6_2,8].map(&.chr).join + g.join(" ") # => 1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz ...
 ```

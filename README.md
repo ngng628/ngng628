@@ -1,7 +1,7 @@
 
 <div align="center">
 
-👻💎👻<br>
+👻👻<br>
 *who ya gonna call?*
 
 </div>

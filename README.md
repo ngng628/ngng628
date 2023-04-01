@@ -13,7 +13,7 @@
 
 ![manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
-## $\mathcal{who\ am\ I?}$
+## $\mathcal{Who\ am\ I?}$
 
 - 🐦 https://twitter.com/ngng628
 - :octocat: https://github.com/ngng628

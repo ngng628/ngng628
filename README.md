@@ -13,7 +13,7 @@
 
 ![manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
-## $mathcal{Who am I?}$
+## $\mathcal{Who\ am\ I?}$
 
 - 🐦 https://twitter.com/ngng628
 - :octocat: https://github.com/ngng628
@@ -21,7 +21,7 @@
 - 🏇 https://atcoder.jp/users/ngng628
 - 📊 https://codeforces.com/profile/ngng628
 
-## $mathcal{GitHub Stats}$
+## $\mathcal{GitHub\ Stats}$
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ngng628&count_private=true&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true" />
@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngng628&layout=compact&langs_count=10&theme=dracula&bg_color=00000000&hide_border=true" />
 </a>
 
-## $mathcal{Fizz Buzz}$
+## $\mathcal{Fizz Buzz}$
 
 ```cr
 n = (1..100).select { |i| i % 3 == 0 }.map { |i| { i, "Fizz" } }

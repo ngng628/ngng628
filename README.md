@@ -15,6 +15,7 @@
 
 ## $\mathcal{Who\ am\ I?}$
 
+- 👨‍💻 https://ngng628.github.io/portfolio/
 - 🐦 https://twitter.com/ngng628
 - :octocat: https://github.com/ngng628
 - 🪵 https://scrapbox.io/ngmemo/
